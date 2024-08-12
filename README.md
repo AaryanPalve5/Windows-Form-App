@@ -1,4 +1,4 @@
-# SlidelyTask2-Desktop
+# Desktop app
 
 This is a Windows Forms application developed using Visual Basic .NET. The application consists of several forms that provide functionalities such as toggling a stopwatch, navigating through submissions, and accepting user inputs.
 
