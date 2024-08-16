@@ -44,4 +44,4 @@ This is a Windows Forms application developed using Visual Basic .NET. The appli
 
 Submissions are retrieved from a local server running at `http://localhost:3000/submissions`. Make sure the server is running and accessible when using the application.
 
-Backend server repo link:- https://github.com/AaryanPalve5/SlidelyTask2-BackendServer
+Backend server repo link:- https://github.com/AaryanPalve5/Basic-Database
