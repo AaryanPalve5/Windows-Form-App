@@ -8,25 +8,6 @@ This is a Windows Forms application developed using Visual Basic .NET. The appli
 - **Form2**: Contains a stopwatch with start, stop, and toggle functionalities.
 - **Form3**: Displays submissions retrieved from a local server and allows navigation through them using keyboard shortcuts.
 
-## Prerequisites
-
-- .NET Framework (version required by the project)
-- Visual Studio or any other compatible IDE for running and editing the project
-
-## Getting Started
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/AaryanPalve5/SlidelyTask2-Desktop.git
-    ```
-
-2. **Open the project**:
-    - Open `WinFormsApp2.sln` in Visual Studio.
-
-3. **Run the application**:
-    - Build and run the project from Visual Studio.
-
 ## Forms Overview
 
 ### Form1
